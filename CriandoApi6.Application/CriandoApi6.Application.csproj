@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="aluno\NovaPasta1\**" />
+    <Compile Remove="aluno\NovaPasta\**" />
+    <EmbeddedResource Remove="aluno\NovaPasta1\**" />
+    <EmbeddedResource Remove="aluno\NovaPasta\**" />
+    <None Remove="aluno\NovaPasta1\**" />
+    <None Remove="aluno\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CriandoApi6.Repository\CriandoApi6.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

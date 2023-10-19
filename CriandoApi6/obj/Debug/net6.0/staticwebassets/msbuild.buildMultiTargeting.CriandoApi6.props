@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CriandoApi6.props" />
+</Project>

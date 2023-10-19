@@ -1,0 +1,15 @@
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\bin\Debug\net6.0\CriandoApi6.Application.deps.json
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\bin\Debug\net6.0\CriandoApi6.Application.dll
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\bin\Debug\net6.0\CriandoApi6.Application.pdb
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\bin\Debug\net6.0\CriandoApi6.Repository.dll
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\bin\Debug\net6.0\CriandoApi6.Repository.pdb
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.csproj.AssemblyReference.cache
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.AssemblyInfoInputs.cache
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.AssemblyInfo.cs
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.csproj.CopyComplete
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.dll
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\refint\CriandoApi6.Application.dll
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\CriandoApi6.Application.pdb
+C:\Users\Kaio\Documents\CriandoApi6\CriandoApi6.Application\obj\Debug\net6.0\ref\CriandoApi6.Application.dll
